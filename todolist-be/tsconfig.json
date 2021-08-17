@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "CommonJS",
+    "noUnusedParameters": false,
+    "allowUnreachableCode": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": ["./client/**/*", "./node_modules/**/*"]
+}
